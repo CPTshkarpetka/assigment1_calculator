@@ -1,0 +1,14 @@
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\bin\Debug\net10.0\calculator1.exe
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\bin\Debug\net10.0\calculator1.deps.json
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\bin\Debug\net10.0\calculator1.runtimeconfig.json
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\bin\Debug\net10.0\calculator1.dll
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\bin\Debug\net10.0\calculator1.pdb
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\obj\Debug\net10.0\calculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\obj\Debug\net10.0\calculator1.AssemblyInfoInputs.cache
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\obj\Debug\net10.0\calculator1.AssemblyInfo.cs
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\obj\Debug\net10.0\calculator1.csproj.CoreCompileInputs.cache
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\obj\Debug\net10.0\calculator1.dll
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\obj\Debug\net10.0\refint\calculator1.dll
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\obj\Debug\net10.0\calculator1.pdb
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\obj\Debug\net10.0\calculator1.genruntimeconfig.cache
+C:\Users\vasuk\RiderProjects\calculator1\calculator1\obj\Debug\net10.0\ref\calculator1.dll
